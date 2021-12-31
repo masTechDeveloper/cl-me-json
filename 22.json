@@ -1,0 +1,39 @@
+{
+  "name": "Monster Egg #22",
+  "description": "An NFT project by CryptinityLab, 6666 unique characters of rarest art. CryptinityLab aims to resolve major issue in NFT market which is gas fee that's why our first project is on Polygon. Holders of the Monster Egg NFTs will be able to play with these unique characters in the game for Free Game will be launched after completing 100% Minting.",
+  "image": "ipfs://Qmf9YCfTGpEMfJpPSMCivBdRWn3xe4TqnELsejPFFSvWcT/22.png",
+  "dna": "c392ceb6b0d7c4d1569120d7df53edc839e0a4a9",
+  "edition": 22,
+  "date": 1640880127582,
+  "attributes": [
+    {
+      "trait_type": "Leg",
+      "value": "Monster"
+    },
+    {
+      "trait_type": "other",
+      "value": "none"
+    },
+    {
+      "trait_type": "Hand-B",
+      "value": "MEB0"
+    },
+    {
+      "trait_type": "Head Wear B",
+      "value": "Rabbit"
+    },
+    {
+      "trait_type": "Body",
+      "value": "North"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Seriously"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cat"
+    }
+  ],
+  "compiler": "A Project by Cryptinity Lab | Monster Eggs"
+}
